@@ -1,0 +1,11 @@
+img#photo{
+    border-radius: 50%;
+    border: thick solid #fff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+body{
+    background-position: 0%;
+    background-size: cover;
+}
